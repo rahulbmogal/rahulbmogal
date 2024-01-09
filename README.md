@@ -1,9 +1,10 @@
 <h1 align="center">Hello, I'm Rahul</h1>
 <h3 align="center">Aspiring Data Professional who wants to explore the world of data .</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.impressico.com/wp-content/uploads/2020/10/bi-dashboard.gif">
 
-- I have Completed My MSc. Data Science & Analytics from Cardiff University.
+<img align="right" alt="Coding" width="300" src="https://www.impressico.com/wp-content/uploads/2020/10/bi-dashboard.gif">
+
+- MSc. Data Science & Analytics from Cardiff University.
 
 - Languages Python, SQL
 
