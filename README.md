@@ -2,13 +2,13 @@
 <h3 align="center">Aspiring Data Professional who wants to explore the world of data .</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://www.impressico.com/wp-content/uploads/2020/10/bi-dashboard.gif">
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*fB9syGVCXVhJM-PN.gif">
 
 - MSc. Data Science & Analytics from Cardiff University.
 
 - Languages Python, SQL
 
-- Skills : Data Science, Data Analytics , Data Engineering
+- Tools : Excel, PowerBI, Tableau.
 
 - 📫 How to reach me **rahulmogal@outlook.com**
 
