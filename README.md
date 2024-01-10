@@ -1,3 +1,4 @@
+![logo](https://github.com/rahulbmogal/rahulbmogal/blob/main/Linkedln%20Banner.png)
 <h1 align="center">Hello, I'm Rahul</h1>
 <h3 align="center">Aspiring Data Professional who wants to explore the world of data .</h3>
 
