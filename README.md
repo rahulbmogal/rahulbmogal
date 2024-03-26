@@ -7,9 +7,11 @@
 
 - MSc. Data Science & Analytics from Cardiff University.
 
-- Languages Python, SQL
+- Languages : Python, SQL
 
 - Tools : Excel, PowerBI, Tableau.
+
+- Cloud Platforms : Azure data-factory, Databricks, Synapse Analytics.
 
 - 📫 How to reach me **rahulmogal@outlook.com**
 
